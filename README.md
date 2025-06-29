@@ -37,13 +37,18 @@
    - Windows + J = Bölge değiştirme
    - Windows + Z = Rofi Hesap Makinesi
    - Windows + X = Rofi Emoji
-   - CTRL + ALT + P = Kapatma Ekranı
-   - CTRL + ALT + L = Kilitleme
+   - Windows + V = Kopyalama geçmişi
    - Windows + Shift + X = Ekran görüntüsü
    - Windows + F = Tam ekran
+### CTRL tuşu altındakiler
+2. CTRL + x = x
+   - CTRL + ALT + P = Kapatma Ekranı
+   - CTRL + ALT + L = Kilitleme
+   - CTRL + ALT + A = Hyprpicker
+   - CTRL + SHIFT + Enter = Plasma Sistem Monitörü
+### ALT tuşu altındakiler
+3. ALT + x = x
    - ALT + D = Rofi web arama
-
-
 
 
 
