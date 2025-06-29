@@ -23,21 +23,28 @@
 21. plasma-system-monitor
 22. Hyprpicker
 ## Tuş Dizilimi
-Windows + T = Rofi TDK
-Windows + Enter = Terminal
-Windows + Q = Uygulamayı kapat
-Windows + M = Hyprland'den çık
-Windows + C = Firefox'u açar
-Windows + Shift + Enter = Dolphin'i açar
-Windows + Space = hareket modu
-Windows + D = Rofi drun
-Windows + P = kısa süreli uçma
-Windows + J = Bölge değiştirme
-Windows + Z = Rofi Hesap Makinesi
-Windows + X = Rofi Emoji
-CTRL + ALT + P = Kapatma Ekranı
-CTRL + ALT + L = Kilitleme
-Windows + Shift + X = Ekran görüntüsü
-Windows + F = Tam ekran
-ALT + D = Rofi web arama
+### Windows tuşu altındakiler
+1. Windows + x = x
+   - Windows + T = Rofi TDK
+   - Windows + Enter = Terminal
+   - Windows + Q = Uygulamayı kapat
+   - Windows + M = Hyprland'den çık
+   - Windows + C = Firefox'u açar
+   - Windows + Shift + Enter = Dolphin'i açar
+   - Windows + Space = hareket modu
+   - Windows + D = Rofi drun
+   - Windows + P = kısa süreli uçma
+   - Windows + J = Bölge değiştirme
+   - Windows + Z = Rofi Hesap Makinesi
+   - Windows + X = Rofi Emoji
+   - CTRL + ALT + P = Kapatma Ekranı
+   - CTRL + ALT + L = Kilitleme
+   - Windows + Shift + X = Ekran görüntüsü
+   - Windows + F = Tam ekran
+   - ALT + D = Rofi web arama
+
+
+
+
+
 
